@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Common Python dependencies for Data Science Projects
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+tensorflow
+beautifulsoup4
+requests
+statsmodels
